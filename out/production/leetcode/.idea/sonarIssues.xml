@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/common/enums/ScheduleCycleEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/common/enums/ScheduleIntervalEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/common/utils/ApiException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/common/utils/DataCompareUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/common/utils/PageUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/common/utils/Query.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/controller/DataRuleExecutorController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/controller/ScheduleJobController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/dao/DataRuleExecutorDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/dao/DataRuleRelationSqlDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/dao/ScheduleJobDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/dao/test.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/dao/testsql.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/domain/DataPointModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/domain/DataSourceModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/domain/ScheduleJobModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/service/DataRuleExecutorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/service/ScheduleJobService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/service/impl/DataPointServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/service/impl/DataRuleExecutorServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/java/com/peppa/data/service/impl/ScheduleJobServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/resources/config/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/resources/config/application-qa.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/resources/config/application-sim.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/resources/mapper/DataPointDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/resources/mapper/DataRuleExecutorDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/data/src/main/resources/mapper/ScheduleJobDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/common/enums/EnEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/common/enums/EnvEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/common/tools/ApiTool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/common/tools/Request.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/common/utils/DataFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/common/utils/EncryptUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/common/utils/HttpUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/common/utils/PageUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/controller/EsToolsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/controller/FieldBloodController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/controller/ServiceInfoController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/controller/TableBloodController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/entity/AiPhaseSampleModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/entity/FieldBloodInfoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/entity/MathSysCourseModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/entity/TableBloodInfoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/service/AutoSendMqService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/service/EsProjectService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/service/EsToolsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/service/FieldBloodService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/service/impl/AutoSendMqServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/service/impl/EsProjectServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/java/com/peppa/extend/service/impl/EsToolsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/resources/common.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/resources/config/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/resources/log4j2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/resources/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/peppa-data-server/extend/src/main/resources/mapper/fieldBloodDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/smart-admin-practice/smart-admin-api/src/main/java/com/little/smartadmin/module/system/department/DepartmentDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/smart-admin-practice/smart-admin-api/src/main/java/com/little/smartadmin/module/system/department/DepartmentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/smart-admin-practice/smart-admin-api/src/main/java/com/little/smartadmin/module/system/department/DepartmentTreeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhr/vhr/vhrserver/vhr-mapper/src/main/java/org/javaboy/vhr/mapper/DepartmentMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhr/vhr/vhrserver/vhr-mapper/src/main/java/org/javaboy/vhr/mapper/EmployeeMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhr/vhr/vhrserver/vhr-mapper/src/main/java/org/javaboy/vhr/mapper/EmployeeecMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhr/vhr/vhrserver/vhr-model/src/main/java/org/javaboy/vhr/model/Department.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhr/vhr/vhrserver/vhr-model/src/main/java/org/javaboy/vhr/model/Hr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhr/vhr/vhrserver/vhr-model/src/main/java/org/javaboy/vhr/model/HrRole.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/java/little/demo/vhrpractice/mapper/DepartmentMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/java/little/demo/vhrpractice/mapper/EmployeeMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/java/little/demo/vhrpractice/mapper/EmployeecMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/java/little/demo/vhrpractice/mapper/PositionMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/resources/mapper/DepartmentMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/resources/mapper/DepartmentMapper.xml.fxml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/resources/mapper/EmployeeMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/resources/mapper/EmployeecMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-mapper/src/main/resources/mapper/PositionMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/AdjustSalary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Appraise.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/ChatMsg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Department.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/EmpSalary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/EmployeeRemove.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/EmployeeTrain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Employeec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Hr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/HrRole.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/JobLevel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/MailConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Nation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/PoliticsStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Position.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/ResPageBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/RespBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/java/little/demo/vhrpractice/model/Salary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-model/src/main/resources/db/migration/V1_vhr.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-service/src/main/java/little/demo/vhrpractice/service/DepartmentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-service/src/main/java/little/demo/vhrpractice/service/EmployeeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-service/src/main/java/little/demo/vhrpractice/service/PositionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-web/src/main/java/little/demo/vhrpractice/VhrPracticeApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-web/src/main/java/little/demo/vhrpractice/controller/emp/EmpBasicController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vhrpractice/vhrserver/vhr-web/src/main/java/little/demo/vhrpractice/controller/system/basic/DepartmentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vueblog/vueblog-java/src/main/java/com/markerhub/controller/AccountController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vueblog/vueblog-java/src/main/java/com/markerhub/controller/BlogController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/vueblog/vueblog-java/src/main/java/com/markerhub/controller/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/coding/QuickSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/二叉树的后续遍历">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/位运算">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/动态规划">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/双指针">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/回溯算法">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/广度优先遍历（BFS）">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/快慢指针">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/快速幂">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/快速排序">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithms/相交链表">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/HammingWeight_15.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/MyPow_16.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/hot100/needagain">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/hot100/shuzu/Permute_46.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/hot100/shuzu/combinationSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/hot100/zifuchuan/Partition_131.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/BuildTree07.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/CQueue_09.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/Exchange_21.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/Exist_12.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/Fib_10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/LengthOfLongestSubstring_48.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/MinArray_11.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/PrintNumver_17.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/ReversePrint_06.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/SingleNumber_56.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/SlideWindow/MaxSlidingWindow_59.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/backtracking/PathSum_34.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/dp/Fib_10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/dp/MaxProfit_63.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/dp/NumWays_10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/dp/TranslateNum_46.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/dp/maxProfit_63.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/dp/numWays_10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/lianbiao/GetKthFromEnd_22.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/tree/InorderTraversal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/tree/LevelOrder_32.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/zifuchuan/IsNumber_20.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/zifuchuan/Permutation_38.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
