@@ -633,6 +633,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithmstxt/滑动窗口.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/year2022/HammingWeight_15.java">
           <value>
             <set />
@@ -793,7 +798,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode2023/src/main/java/slidewindow/MinSubArrayLen209.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/SortedSquares977.java">
           <value>
             <set />
           </value>
