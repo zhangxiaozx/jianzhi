@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80c247d3-6ad5-4a3b-8c0f-56af04099c1d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode2023/leetcode2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode2023/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/Binary704.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/RemoveElement27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/algorithmstxt/二分法" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/algorithmstxt/二分法" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/algorithmstxt/双指针" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/algorithmstxt/双指针" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode2023/target/" />
@@ -34,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Binary704.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Binary704.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/Binary704.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -43,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveElement27.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/RemoveElement27.java">
+      <file leaf-file-name="RemoveElement27.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="246">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -81,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/year2022/daimasuixianglu/LevelEnum.java" />
         <option value="$PROJECT_DIR$/leetcode/year2022/daimasuixianglu/TestEnum2.java" />
         <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer/replaceSpace_05.java" />
         <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer/FindRepeatNumber_03.java" />
@@ -132,6 +121,7 @@
         <option value="$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/Binary704.java" />
         <option value="$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/RemoveElement27.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithmstxt/双指针" />
+        <option value="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java" />
       </list>
     </option>
   </component>
@@ -207,6 +197,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode2023" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="twopointers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -234,17 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Partition_131">
-    <configuration name="LengthOfLongestSubstring_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.year2022.jianzhioffer_1.LengthOfLongestSubstring_48" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.year2022.jianzhioffer_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoveElement27">
     <configuration name="MaxProfit_63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.year2022.jianzhioffer_1.dp.MaxProfit_63" />
       <module name="leetcode" />
@@ -275,6 +264,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="RemoveElement27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twopointers.RemoveElement27" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twopointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="combinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.year2022.hot100.shuzu.combinationSum" />
       <module name="leetcode" />
@@ -286,19 +285,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.LengthOfLongestSubstring_48" />
       <item itemvalue="Application.Permutation_38" />
       <item itemvalue="Application.MaxProfit_63" />
       <item itemvalue="Application.combinationSum" />
       <item itemvalue="Application.Partition_131" />
+      <item itemvalue="Application.RemoveElement27" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveElement27" />
         <item itemvalue="Application.Partition_131" />
         <item itemvalue="Application.combinationSum" />
         <item itemvalue="Application.MaxProfit_63" />
         <item itemvalue="Application.Permutation_38" />
-        <item itemvalue="Application.LengthOfLongestSubstring_48" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +316,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="DB Diagnostics" order="7" show_stripe_button="false" />
@@ -341,8 +339,8 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3660606" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.47272727" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17525035" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.47272727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17525035" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -376,13 +374,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/FindNumberIn2DArray_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/replaceSpace_05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -725,6 +716,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/Binary704.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/algorithmstxt/双指针">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -732,10 +730,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/Binary704.java">
+    <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="246">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>

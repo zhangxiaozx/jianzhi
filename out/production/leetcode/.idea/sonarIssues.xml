@@ -623,6 +623,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithmstxt/二分法">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/algorithmstxt/双指针">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/year2022/HammingWeight_15.java">
           <value>
             <set />
@@ -769,6 +779,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/zifuchuan/Permutation_38.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/Binary704.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode2023/src/main/java/binarysearch/RemoveElement27.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java">
           <value>
             <set />
           </value>
