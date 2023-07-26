@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80c247d3-6ad5-4a3b-8c0f-56af04099c1d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/algorithmstxt/滑动窗口.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/slidewindow/MinSubArrayLen209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/SortedSquares977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/RemoveElements203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/ReverseList206.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/algorithmstxt/双指针" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/algorithmstxt/双指针" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/RemoveElement27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/algorithmstxt/双指针" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/algorithmstxt/双指针" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/twopointers/RemoveElement27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/twopointers/RemoveElement27.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode2023/target/" />
@@ -76,11 +72,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinSubArrayLen209.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinSubArrayLen209.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/slidewindow/MinSubArrayLen209.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="253">
+              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LuoXuanJuZhen59.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/hot100/shuzu/LuoXuanJuZhen59.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveElements203.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/RemoveElements203.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseList206.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/ReverseList206.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -105,10 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/FindNumberIn2DArray_04.java" />
-        <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/replaceSpace_05.java" />
-        <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/ReversePrint_06.java" />
-        <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/tree/InorderTraversal.java" />
         <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/CQueue_09.java" />
         <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/Fib_10.java" />
         <option value="$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/SingleNumber_56.java" />
@@ -156,6 +184,10 @@
         <option value="$PROJECT_DIR$/leetcode2023/src/main/java/twopointers/SortedSquares977.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithmstxt/滑动窗口.txt" />
         <option value="$PROJECT_DIR$/leetcode2023/src/main/java/slidewindow/MinSubArrayLen209.java" />
+        <option value="$PROJECT_DIR$/leetcode2023/src/main/java/hot100/shuzu/LuoXuanJuZhen59.java" />
+        <option value="$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/ListNode.java" />
+        <option value="$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/RemoveElements203.java" />
+        <option value="$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/ReverseList206.java" />
       </list>
     </option>
   </component>
@@ -165,7 +197,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -193,12 +225,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmstxt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode2023" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,25 +255,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2023" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="slidewindow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2023" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="twopointers" type="462c0819:PsiDirectoryNode" />
+              <item name="lianbiao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,7 +284,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinSubArrayLen209">
+  <component name="RunManager" selected="Application.LuoXuanJuZhen59">
+    <configuration name="LuoXuanJuZhen59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hot100.shuzu.LuoXuanJuZhen59" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hot100.shuzu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="MinSubArrayLen209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="slidewindow.MinSubArrayLen209" />
       <module name="leetcode" />
@@ -317,30 +335,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="combinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.year2022.hot100.shuzu.combinationSum" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.year2022.hot100.shuzu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.combinationSum" />
       <item itemvalue="Application.Partition_131" />
       <item itemvalue="Application.RemoveElement27" />
       <item itemvalue="Application.SortedSquares977" />
       <item itemvalue="Application.MinSubArrayLen209" />
+      <item itemvalue="Application.LuoXuanJuZhen59" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LuoXuanJuZhen59" />
         <item itemvalue="Application.MinSubArrayLen209" />
         <item itemvalue="Application.SortedSquares977" />
         <item itemvalue="Application.RemoveElement27" />
         <item itemvalue="Application.Partition_131" />
-        <item itemvalue="Application.combinationSum" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +366,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -374,7 +382,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4947589" weight="0.24964234" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31878787" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31878787" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3260606" />
@@ -383,8 +391,8 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3272727" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.49818182" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12732475" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.43272728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -418,34 +426,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/tree/InorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/CQueue_09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="28" column="31" selection-start-line="19" selection-start-column="8" selection-end-line="28" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/Fib_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="554" column="13" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/year2022/jianzhioffer_1/SingleNumber_56.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
@@ -776,8 +756,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/slidewindow/MinSubArrayLen209.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="253">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/hot100/shuzu/LuoXuanJuZhen59.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/RemoveElements203.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode2023/src/main/java/lianbiao/ReverseList206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
