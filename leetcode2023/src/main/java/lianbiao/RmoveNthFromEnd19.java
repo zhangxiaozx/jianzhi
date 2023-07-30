@@ -8,7 +8,7 @@ package lianbiao;
  */
 public class RmoveNthFromEnd19 {
     /**
-     * 删除链表的倒数第n个结点，则需要找到它的倒数第n+1和结点
+     * 删除链表的倒数第n个结点，则需要找到它的倒数第n+1个结点
      * 第一个想到的方法是循环
      */
     public static ListNode removeNthFromEnd(ListNode head, int n) {
