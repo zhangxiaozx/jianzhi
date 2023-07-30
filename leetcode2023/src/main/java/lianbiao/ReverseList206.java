@@ -2,13 +2,16 @@ package lianbiao;
 
 public class ReverseList206 {
 
+    /**
+     * 双指针：pre、cur
+     * pre在前，cur在后
+     */
     public ListNode reverseList(ListNode head) {
         //判断head是否为null
         if (head == null) return head;
 
-        ListNode pre = head; //new一个新结点pre，指向head
-        ListNode cur = head.next;  //设置当前结点cur指向head.next
-        pre.next = null;   //反转：pre的next指向null
+        ListNode pre = null; //new一个新结点pre，指向null
+        ListNode cur = head;  //设置当前结点cur指向head.next
 
         while (cur != null){
             ListNode tmp = cur.next; //保存cur的next结点
